@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Add Unknown face class in databse.csv file
 ```
-unknown.py
+Python unknown.py
 ```
 ## Mediapipe realtime webcam for google colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/p-p-p-p/college-attendance-system/blob/main/mediapipe_webcam.ipynb)
