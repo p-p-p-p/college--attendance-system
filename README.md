@@ -12,12 +12,17 @@ By leveraging advanced technologies such as streamlit, mediapipe and google face
 This application is built using Python 3.10 .
 
 ## How to install 
-### Step 1: Git clone this repository
-### Step 2: cd ./college-attendance-system/
-### Step 3: Open terminal and copy paste this line
+####  Step 1: Git clone this repository
+####  Step 2: cd ./college-attendance-system/
+####  Step 3: Open terminal and copy paste this line
 ```
 pip install -r requirements.txt
 ```
+## Generate Unknown face class
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/p-p-p-p/college-attendance-system/blob/main/unknown_face.ipynb)
+## Mediapipe realtime webcam for google colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/p-p-p-p/college-attendance-system/blob/main/mediapipe_webcam.ipynb)
+
 ![](https://github.com/p-p-p-p/college-attendance-system/blob/main/images/clip.gif)
 
 ![](https://github.com/p-p-p-p/college-attendance-system/blob/main/images/1.png)
